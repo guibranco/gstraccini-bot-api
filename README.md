@@ -21,6 +21,7 @@ This repository contains the API for GStraccini-bot.
 GStraccini-bot uses several components to manage repositories:
 
 - [API](https://github.com/guibranco/gstraccini-bot-api): The bot’s API project. Stats and configuration endpoints.
+- [Docs](https://github.com/guibranco/gstraccini-bot-docs): The bot's documentation.
 - [Handler](https://github.com/guibranco/gstraccini-bot-handler): Handles incoming webhooks.
 - [Service](https://github.com/guibranco/gstraccini-bot-service): The bot's service project. Main worker that processes tasks
 - [Website](https://github.com/guibranco/gstraccini-bot-website): Provides the bot's landing page and dashboard.
