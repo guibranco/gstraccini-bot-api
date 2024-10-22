@@ -1,5 +1,9 @@
 # ![GStraccini-bot](https://raw.githubusercontent.com/guibranco/gstraccini-bot-website/main/Src/logo.png)
 
+## Debugger Options API
+
+This project includes a `/debugger-options` API endpoint that allows users to dynamically switch debugger options. Users can enable or disable the debugger and update specific debugger settings without the need to restart or reconfigure the entire system. This enhances flexibility by allowing real-time adjustments to debugging features.
+
 🤖 :octocat: **GStraccini-bot** is a GitHub bot designed to keep your repository organized and healthy by automating tasks like managing pull requests, issues, comments, and commits. This allows you to focus on solving real problems.
 
 ---
