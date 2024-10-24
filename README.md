@@ -3,6 +3,13 @@
 🤖 :octocat: **GStraccini-bot** is a GitHub bot designed to keep your repository organized and healthy by automating tasks like managing pull requests, issues, comments, and commits. This allows you to focus on solving real problems.
 
 ---
+- **Label Settings Endpoint**: A new API endpoint `/v1/label-settings` has been introduced to retrieve label configurations.
+  - **Query Parameters**:
+    - `page`: The page number for pagination.
+    - `per_page`: The number of items per page.
+    - `default`: Filter labels by default state (true/false).
+
+  - **Response**: Returns a JSON object with label details, pagination info, and total count.
 
 ## About the Bot
 
