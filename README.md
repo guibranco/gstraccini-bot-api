@@ -33,5 +33,6 @@ GStraccini-bot uses several components to manage repositories:
 
 - [GitHub Marketplace](https://github.com/marketplace/gstraccini-bot)
 - [GitHub App](https://github.com/apps/gstraccini)
-- [Repository on GitHub](https://github.com/guibranco/gstraccini-bot)
-- [Bot Dashboard](https://bot.straccini.com)
+- [Repository on GitHub](https://github.com/guibranco/gstraccini-bot-service)
+- [Bot's Dashboard](https://bot.straccini.com)
+- [Bot's Documentation](https://docs.bot.straccini.com)
