@@ -9,13 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/guibranco/gstraccini-bot-website/actions/workflows/build.yml"><img src="https://github.com/guibranco/gstraccini-bot-website/actions/workflows/build.yml/badge.svg" alt="Build"></a>
-  <a href="https://github.com/guibranco/gstraccini-bot-website/actions/workflows/deploy.yml"><img src="https://github.com/guibranco/gstraccini-bot-website/actions/workflows/deploy.yml/badge.svg" alt="Deploy via FTP"></a>
-  <a href="https://github.com/guibranco/gstraccini-bot-website/actions/workflows/php-lint.yml"><img src="https://github.com/guibranco/gstraccini-bot-website/actions/workflows/php-lint.yml/badge.svg" alt="PHP Linting"></a>
-  <a href="https://github.com/guibranco/gstraccini-bot-website/actions/workflows/json-yaml-lint.yml"><img src="https://github.com/guibranco/gstraccini-bot-website/actions/workflows/json-yaml-lint.yml/badge.svg" alt="JSON/YAML validation"></a>
-  <a href="https://github.com/guibranco/gstraccini-bot-website/actions/workflows/phpmd.yml"><img src="https://github.com/guibranco/gstraccini-bot-website/actions/workflows/phpmd.yml/badge.svg" alt="PHPMD"></a>
-  <a href="https://github.com/guibranco/gstraccini-bot-website/actions/workflows/codacy.yml"><img src="https://github.com/guibranco/gstraccini-bot-website/actions/workflows/codacy.yml/badge.svg" alt="Codacy Security Scan"></a>
-  <a href="https://github.com/guibranco/gstraccini-bot-website/actions/workflows/snyk.yml"><img src="https://github.com/guibranco/gstraccini-bot-website/actions/workflows/snyk.yml/badge.svg" alt="Snyk Security"></a>
+  <a href="https://github.com/guibranco/gstraccini-bot-api/actions/workflows/build.yml"><img src="https://github.com/guibranco/gstraccini-bot-api/actions/workflows/build.yml/badge.svg" alt="Build"></a>
+  <a href="https://github.com/guibranco/gstraccini-bot-api/actions/workflows/deploy.yml"><img src="https://github.com/guibranco/gstraccini-bot-api/actions/workflows/deploy.yml/badge.svg" alt="Deploy via FTP"></a>
+  <a href="https://github.com/guibranco/gstraccini-bot-api/actions/workflows/php-lint.yml"><img src="https://github.com/guibranco/gstraccini-bot-api/actions/workflows/php-lint.yml/badge.svg" alt="PHP Linting"></a>
+  <a href="https://github.com/guibranco/gstraccini-bot-api/actions/workflows/json-yaml-lint.yml"><img src="https://github.com/guibranco/gstraccini-bot-api/actions/workflows/json-yaml-lint.yml/badge.svg" alt="JSON/YAML validation"></a>
 </p>
 
 <p align="center">
