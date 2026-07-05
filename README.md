@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/guibranco/gstraccini-bot-website/main/src/images/logo-white.png" alt="GStraccini-bot" width="220" />
 </p>
 
-<h1 align="center">GStraccini-bot Website</h1>
+<h1 align="center">GStraccini-bot API</h1>
 
 <p align="center">
   🤖 :octocat: <strong>GStraccini-bot</strong> is a GitHub bot designed to keep your repository organized and healthy by automating tasks like managing pull requests, issues, comments, and commits. This allows you to focus on solving real problems.
